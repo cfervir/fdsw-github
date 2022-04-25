@@ -11,6 +11,12 @@ body {
   background-position: left;
 }
 
+.semi-card {
+  background-color: rgba(0, 113, 9, 0.7);
+  padding: 10px 20px;
+  border-radius: 10px;
+} 
+
 /* Mis trabajos */
 
 #Mis-trabajos .image-top {
